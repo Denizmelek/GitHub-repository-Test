@@ -5,8 +5,15 @@ h1 {
 }
 
 img {
-  width: 50%;
+  width: 55%;
   display: block;
   margin: 30px auto;
   border-radius: 7px;
+}
+
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 125px;
+  padding: 10px 0 10px 0;
 }

@@ -2,3 +2,9 @@ h1 {
   text-align: center;
   color: navy;
 }
+
+img {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+}

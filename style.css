@@ -4,6 +4,14 @@ h1 {
   margin-top: 25px;
 }
 
+p {
+  text-align: center;
+  padding: 45px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: smaller;
+  opacity: 0.5;
+}
+
 img {
   width: 55%;
   display: block;

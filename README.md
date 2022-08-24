@@ -1,2 +1,2 @@
-# My-Weather-App-Project
- A real-time Weather App that is built by using HTML | CSS | JS
+# My-First-Web-page-Hosted-with-Netlify
+ A webpage is built on HTML and CSS. Hosted with Netlify: https://test-network.netlify.app/

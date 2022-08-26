@@ -1,5 +1,5 @@
 # My First Web page Hosted with Netlify
-A web page is built on HTML and CSS.  
+A web page is built on HTML, CSS, and JS.  
 
 # Description
 Created a single web page and hosted it on the Netlify platform for test purposes.

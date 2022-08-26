@@ -13,5 +13,5 @@ No usage purposes. It is a test page.
 # Visuals
 <img width="670" alt="" src="https://user-images.githubusercontent.com/77960655/186992119-7f9f4d8c-9cf2-455c-bb62-f9317c0645f9.png">
 
-# Contributors 
-Denizmelek Asanova @Denizmelek[](https://github.com/Denizmelek)
+# Contributor 
+Denizmelek Asanova [@Denizmelek](https://github.com/Denizmelek)
